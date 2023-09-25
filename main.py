@@ -7,7 +7,7 @@ import numpy as np
 # 한글폰트 적용
 # 폰트 적용
 import os
-import matplotlib.font_manager as fm  # 폰트 관련 용도 as fm
+import matplotlib.font_manager as fm  
 
 def unique(list):
     x = np.array(list)
